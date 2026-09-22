@@ -216,24 +216,11 @@ decomposing-ml-earthquake-skill/
 
 
 
----
-
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/decomposing-ml-earthquake-skill.git
-
-cd decomposing-ml-earthquake-skill
-
-Install dependencies:
-pip install -r requirements.txt
 
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------
 
 
 **Citation**
