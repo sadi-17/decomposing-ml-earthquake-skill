@@ -175,43 +175,6 @@ Calibration methods include:
 Prediction uncertainty is evaluated using conformal prediction methods.
 
 
----
-
-## 6. Cross-Catalog Distribution Shift
-
-Transfer experiments evaluate geographic generalization:
-
-
-decomposing-ml-earthquake-skill/
-
-│
-├── code/
-│ ├── make_dataset.py
-│ ├── analyses.py
-│ ├── models.py
-│ ├── etas.py
-│ ├── run_analysis.py
-│ ├── audit_outputs.py
-│ ├── report.py
-│ └── utils.py
-│
-├── configs/
-│
-├── data/
-│ └── provenance/
-│
-├── results/
-│ ├── figures/
-│ ├── tables/
-│ └── manifests/
-│
-├── manuscript/
-│
-├── requirements.txt
-├── environment.yml
-├── CITATION.cff
-└── README.md
-
 
 
 ---
