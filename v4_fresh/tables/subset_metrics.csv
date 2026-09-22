@@ -1,0 +1,10 @@
+catalog,subset,n,positive_rate,auc,f1,precision,recall,accuracy,auc_magdiff
+comcat_global_m4,all test events,81783,0.4136,0.943,0.8905,0.8089,0.9905,0.8993,0.9375
+comcat_global_m4,backward local maxima (operational),42324,0.7992,0.6786,0.8905,0.8089,0.9905,0.8054,0.6475
+comcat_global_m4,foreshocks only,8498,0.0,,,,0.0687,,
+scedc_socal_m25,all test events,11878,0.326,0.9747,0.8883,0.8379,0.9452,0.9225,0.9695
+scedc_socal_m25,backward local maxima (operational),4841,0.7998,0.791,0.8883,0.8379,0.9452,0.81,0.7483
+scedc_socal_m25,foreshocks only,968,0.0,,,,0.2696,,
+comcat_himalaya_m4,all test events,707,0.6025,0.8886,0.925,0.8844,0.9695,0.9052,0.9325
+comcat_himalaya_m4,backward local maxima (operational),482,0.8838,0.5021,0.925,0.8844,0.9695,0.861,0.6613
+comcat_himalaya_m4,foreshocks only,56,0.0,,,,0.0357,,

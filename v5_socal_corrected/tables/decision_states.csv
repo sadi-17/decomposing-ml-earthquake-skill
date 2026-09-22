@@ -1,0 +1,5 @@
+prediction_set,in_0,in_1,state,reading
+{1},False,True,RESPONSE,mainshock; begin search and rescue
+{0},True,False,ALERT,not the mainshock; a larger event is possible
+"{0,1}",True,True,ESCALATE,role undetermined; prepare for a larger event
+{},False,False,ESCALATE,coverage failure; treat as undetermined

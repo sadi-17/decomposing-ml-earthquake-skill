@@ -1,0 +1,7 @@
+catalog,baseline,test_coverage,auc_baseline,auc_model_same_subset,delong_p,delong_p_bh
+comcat_global_m4,b-value drop,0.954,0.5563,0.9423,0.0,0.0
+comcat_global_m4,b-value logistic,0.954,0.5621,0.9423,0.0,0.0
+scedc_socal_m25,b-value drop,0.853,0.4962,0.9721,0.0,0.0
+scedc_socal_m25,b-value logistic,0.853,0.6348,0.9721,0.0,0.0
+comcat_himalaya_m4,b-value drop,0.864,0.4706,0.891,5.010259946759672e-44,6.012311936111606e-44
+comcat_himalaya_m4,b-value logistic,0.864,0.5088,0.891,3.961171240030978e-37,3.961171240030978e-37

@@ -1,0 +1,21 @@
+catalog,sample,ablation,n_train,n_test,mainshock_rate_test,auc,f1
+comcat_global_m4,all events,full,327132,81783,0.4136,0.9431,0.8904
+comcat_global_m4,all events,no_magnitude,327132,81783,0.4136,0.7817,0.7023
+comcat_global_m4,mw >= modern Mc (4.00),full,230121,51761,0.4679,0.9417,0.9067
+comcat_global_m4,mw >= modern Mc (4.00),no_magnitude,230121,51761,0.4679,0.8251,0.7436
+comcat_global_m4,mw >= 4.5 (fixed),full,83492,11055,0.6372,0.9349,0.9476
+comcat_global_m4,mw >= 4.5 (fixed),no_magnitude,83492,11055,0.6372,0.8606,0.8303
+comcat_global_m4,mw >= 5.0 (fixed),full,52170,5770,0.7336,0.9234,0.9587
+comcat_global_m4,mw >= 5.0 (fixed),no_magnitude,52170,5770,0.7336,0.84,0.8685
+scedc_socal_m25,all events,full,47509,11878,0.326,0.9747,0.8871
+scedc_socal_m25,all events,no_magnitude,47509,11878,0.326,0.9044,0.675
+scedc_socal_m25,mw >= modern Mc (2.50),full,30588,8291,0.4328,0.9667,0.9127
+scedc_socal_m25,mw >= modern Mc (2.50),no_magnitude,30588,8291,0.4328,0.9091,0.8133
+scedc_socal_m25,mw >= 3.0 (fixed),full,16302,4887,0.6206,0.9429,0.948
+scedc_socal_m25,mw >= 3.0 (fixed),no_magnitude,16302,4887,0.6206,0.867,0.8836
+scedc_socal_m25,mw >= 3.5 (fixed),full,13021,3804,0.6979,0.9269,0.9581
+scedc_socal_m25,mw >= 3.5 (fixed),no_magnitude,13021,3804,0.6979,0.8607,0.9034
+comcat_himalaya_m4,all events,full,2826,707,0.6025,0.9006,0.9348
+comcat_himalaya_m4,all events,no_magnitude,2826,707,0.6025,0.7984,0.859
+comcat_himalaya_m4,mw >= modern Mc (4.00),full,2009,379,0.6887,0.895,0.9526
+comcat_himalaya_m4,mw >= modern Mc (4.00),no_magnitude,2009,379,0.6887,0.8223,0.8981

@@ -1,0 +1,31 @@
+catalog,config,hyperparameters,auc,f1
+comcat_global_m4,label_R25_T15,frozen (reference window),0.9229,0.8924
+comcat_global_m4,label_R25_T15,re-tuned for this window,0.9235,0.8917
+comcat_global_m4,label_R25_T90,frozen (reference window),0.8836,0.798
+comcat_global_m4,label_R25_T90,re-tuned for this window,0.8847,0.801
+comcat_global_m4,label_R100_T15,frozen (reference window),0.899,0.7679
+comcat_global_m4,label_R100_T15,re-tuned for this window,0.8994,0.7712
+comcat_global_m4,label_R100_T90,frozen (reference window),0.9069,0.5744
+comcat_global_m4,label_R100_T90,re-tuned for this window,0.905,0.5872
+comcat_global_m4,label_R50_T30,frozen (reference window),0.9432,0.8904
+comcat_global_m4,label_R50_T30,re-tuned for this window,0.9432,0.8904
+scedc_socal_m25,label_R25_T15,frozen (reference window),0.9467,0.7865
+scedc_socal_m25,label_R25_T15,re-tuned for this window,0.9482,0.7863
+scedc_socal_m25,label_R25_T90,frozen (reference window),0.9377,0.6077
+scedc_socal_m25,label_R25_T90,re-tuned for this window,0.9385,0.6071
+scedc_socal_m25,label_R100_T15,frozen (reference window),0.95,0.5888
+scedc_socal_m25,label_R100_T15,re-tuned for this window,0.9449,0.5898
+scedc_socal_m25,label_R100_T90,frozen (reference window),0.9753,0.4925
+scedc_socal_m25,label_R100_T90,re-tuned for this window,0.9746,0.494
+scedc_socal_m25,label_R50_T30,frozen (reference window),0.9723,0.7466
+scedc_socal_m25,label_R50_T30,re-tuned for this window,0.9726,0.7553
+comcat_himalaya_m4,label_R25_T15,frozen (reference window),0.915,0.9407
+comcat_himalaya_m4,label_R25_T15,re-tuned for this window,0.9098,0.9317
+comcat_himalaya_m4,label_R25_T90,frozen (reference window),0.8308,0.8751
+comcat_himalaya_m4,label_R25_T90,re-tuned for this window,0.8277,0.8745
+comcat_himalaya_m4,label_R100_T15,frozen (reference window),0.8359,0.8526
+comcat_himalaya_m4,label_R100_T15,re-tuned for this window,0.8409,0.8536
+comcat_himalaya_m4,label_R100_T90,frozen (reference window),0.8419,0.6471
+comcat_himalaya_m4,label_R100_T90,re-tuned for this window,0.8544,0.6517
+comcat_himalaya_m4,label_R50_T30,frozen (reference window),0.9013,0.9348
+comcat_himalaya_m4,label_R50_T30,re-tuned for this window,0.9013,0.9348

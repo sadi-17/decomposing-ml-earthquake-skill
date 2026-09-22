@@ -1,0 +1,7 @@
+catalog,test_block,n,n_censored_removed,mainshock_rate,auc,f1,ece
+comcat_global_m4,untrimmed,81783,4499,0.4136,0.943,0.8905,0.0035
+comcat_global_m4,trimmed last 90 d,77284,4499,0.4168,0.9423,0.8906,0.0039
+scedc_socal_m25,untrimmed,6848,89,0.1305,0.9723,0.7667,0.0091
+scedc_socal_m25,trimmed last 90 d,6759,89,0.1278,0.9726,0.7647,0.0081
+comcat_himalaya_m4,untrimmed,707,35,0.6025,0.8886,0.925,0.0376
+comcat_himalaya_m4,trimmed last 90 d,672,35,0.5938,0.8978,0.9258,0.0387

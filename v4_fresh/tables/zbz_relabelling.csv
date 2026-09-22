@@ -1,0 +1,7 @@
+catalog,labelling,background_rate,flip_vs_windowed,auc,f1,ece
+comcat_global_m4,"windowed (R=50, T=30)",0.4907,0.0,0.9431,0.8904,0.0088
+comcat_global_m4,nearest-neighbour (ZBZ),0.7309,0.2916,0.9569,0.9328,0.036
+scedc_socal_m25,"windowed (R=50, T=30)",0.2793,0.0,0.9747,0.8871,0.0154
+scedc_socal_m25,nearest-neighbour (ZBZ),0.5407,0.3151,0.9565,0.8974,0.0625
+comcat_himalaya_m4,"windowed (R=50, T=30)",0.6868,0.0,0.9006,0.9348,0.0364
+comcat_himalaya_m4,nearest-neighbour (ZBZ),0.7185,0.1628,0.8934,0.8999,0.0633

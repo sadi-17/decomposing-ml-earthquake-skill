@@ -1,0 +1,52 @@
+catalog,config,ranking,kendall_tau_vs_ref,top5_overlap
+comcat_global_m4,label_R25_T15,mag_diff_30d > local_count_7d > mw > depth > log_energy_30d > magError,0.4545,0.8
+comcat_global_m4,label_R25_T30,mag_diff_30d > local_count_7d > log_energy_30d > magError > mw > depth,0.6727,0.8
+comcat_global_m4,label_R25_T60,mag_diff_30d > local_count_7d > log_energy_30d > magError > mw > gap,0.6364,0.8
+comcat_global_m4,label_R25_T90,mag_diff_30d > local_count_7d > log_energy_30d > mw > magError > dmin,0.6,0.8
+comcat_global_m4,label_R50_T15,mag_diff_30d > local_count_7d > mw > log_energy_30d > depthError > magError,0.7818,1.0
+comcat_global_m4,label_R50_T30,mag_diff_30d > log_energy_30d > mw > depthError > local_count_7d > magError,1.0,1.0
+comcat_global_m4,label_R50_T60,mag_diff_30d > log_energy_30d > mw > depth > depthError > dmin,0.5636,0.8
+comcat_global_m4,label_R50_T90,mag_diff_30d > log_energy_30d > mw > depth > depthError > magError,0.5636,0.8
+comcat_global_m4,label_R75_T15,mag_diff_30d > local_count_7d > mw > magError > log_energy_30d > depthError,0.7091,0.8
+comcat_global_m4,label_R75_T30,mag_diff_30d > log_energy_30d > mw > depth > depthError > magError,0.7091,0.8
+comcat_global_m4,label_R75_T60,mag_diff_30d > log_energy_30d > mw > depth > depthError > magError,0.5636,0.8
+comcat_global_m4,label_R75_T90,mag_diff_30d > mw > log_energy_30d > depth > magError > depthError,0.5273,0.6
+comcat_global_m4,label_R100_T15,mag_diff_30d > local_count_7d > mw > depthError > magError > log_energy_30d,0.6727,0.8
+comcat_global_m4,label_R100_T30,mag_diff_30d > log_energy_30d > mw > depth > depthError > magError,0.7818,0.8
+comcat_global_m4,label_R100_T60,mag_diff_30d > mw > log_energy_30d > depth > depthError > magError,0.4909,0.8
+comcat_global_m4,label_R100_T90,mag_diff_30d > mw > log_energy_30d > depth > depthError > dmin,0.4909,0.8
+comcat_global_m4,label_adaptive,mag_diff_30d > log_energy_30d > magError > depth > local_count_7d > depthError,0.5273,0.6
+scedc_socal_m25,label_R25_T15,local_count_7d > mag_diff_30d > log_energy_30d > mw > depth,0.4,1.0
+scedc_socal_m25,label_R25_T30,local_count_7d > mag_diff_30d > log_energy_30d > mw > depth,0.4,1.0
+scedc_socal_m25,label_R25_T60,mag_diff_30d > local_count_7d > log_energy_30d > mw > depth,0.6,1.0
+scedc_socal_m25,label_R25_T90,mag_diff_30d > log_energy_30d > local_count_7d > mw > depth,0.8,1.0
+scedc_socal_m25,label_R50_T15,local_count_7d > mag_diff_30d > mw > log_energy_30d > depth,0.2,1.0
+scedc_socal_m25,label_R50_T30,mag_diff_30d > log_energy_30d > mw > local_count_7d > depth,1.0,1.0
+scedc_socal_m25,label_R50_T60,mag_diff_30d > log_energy_30d > mw > depth > local_count_7d,0.8,1.0
+scedc_socal_m25,label_R50_T90,mag_diff_30d > log_energy_30d > mw > depth > local_count_7d,0.8,1.0
+scedc_socal_m25,label_R75_T15,local_count_7d > mag_diff_30d > mw > log_energy_30d > depth,0.2,1.0
+scedc_socal_m25,label_R75_T30,mag_diff_30d > log_energy_30d > mw > local_count_7d > depth,1.0,1.0
+scedc_socal_m25,label_R75_T60,mag_diff_30d > log_energy_30d > mw > depth > local_count_7d,0.8,1.0
+scedc_socal_m25,label_R75_T90,mag_diff_30d > mw > log_energy_30d > depth > local_count_7d,0.6,1.0
+scedc_socal_m25,label_R100_T15,mag_diff_30d > local_count_7d > mw > log_energy_30d > depth,0.4,1.0
+scedc_socal_m25,label_R100_T30,mag_diff_30d > mw > log_energy_30d > local_count_7d > depth,0.8,1.0
+scedc_socal_m25,label_R100_T60,mag_diff_30d > mw > log_energy_30d > depth > local_count_7d,0.6,1.0
+scedc_socal_m25,label_R100_T90,mag_diff_30d > mw > log_energy_30d > depth > local_count_7d,0.6,1.0
+scedc_socal_m25,label_adaptive,local_count_7d > log_energy_30d > mag_diff_30d > depth > mw,0.0,1.0
+comcat_himalaya_m4,label_R25_T15,mag_diff_30d > local_count_7d > log_energy_30d > depth > depthError > dmin,0.6,0.8
+comcat_himalaya_m4,label_R25_T30,mag_diff_30d > log_energy_30d > local_count_7d > dmin > depthError > depth,0.7455,0.8
+comcat_himalaya_m4,label_R25_T60,mag_diff_30d > log_energy_30d > local_count_7d > gap > magError > dmin,0.6,0.6
+comcat_himalaya_m4,label_R25_T90,mag_diff_30d > log_energy_30d > local_count_7d > magError > gap > dmin,0.7091,0.6
+comcat_himalaya_m4,label_R50_T15,mag_diff_30d > local_count_7d > log_energy_30d > depthError > depth > dmin,0.6727,0.8
+comcat_himalaya_m4,label_R50_T30,mag_diff_30d > log_energy_30d > local_count_7d > mw > depthError > dmin,1.0,1.0
+comcat_himalaya_m4,label_R50_T60,mag_diff_30d > log_energy_30d > gap > local_count_7d > mw > magError,0.7455,0.8
+comcat_himalaya_m4,label_R50_T90,mag_diff_30d > log_energy_30d > mw > gap > magError > local_count_7d,0.6,0.6
+comcat_himalaya_m4,label_R75_T15,mag_diff_30d > local_count_7d > log_energy_30d > depthError > mw > dmin,0.8545,1.0
+comcat_himalaya_m4,label_R75_T30,mag_diff_30d > log_energy_30d > mw > depthError > local_count_7d > rms,0.6727,1.0
+comcat_himalaya_m4,label_R75_T60,mag_diff_30d > log_energy_30d > mw > local_count_7d > gap > depthError,0.7455,0.8
+comcat_himalaya_m4,label_R75_T90,mag_diff_30d > log_energy_30d > mw > depthError > depth > gap,0.6364,0.8
+comcat_himalaya_m4,label_R100_T15,mag_diff_30d > local_count_7d > log_energy_30d > mw > depthError > gap,0.8182,1.0
+comcat_himalaya_m4,label_R100_T30,mag_diff_30d > log_energy_30d > mw > depthError > gap > local_count_7d,0.7091,0.8
+comcat_himalaya_m4,label_R100_T60,mag_diff_30d > log_energy_30d > mw > gap > depth > depthError,0.5636,0.6
+comcat_himalaya_m4,label_R100_T90,mag_diff_30d > log_energy_30d > mw > depth > gap > dmin,0.5273,0.6
+comcat_himalaya_m4,label_adaptive,mag_diff_30d > log_energy_30d > local_count_7d > depthError > gap > rms,0.6,0.8

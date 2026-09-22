@@ -1,0 +1,13 @@
+catalog,model,alpha,n_test,rate_empty,rate_singleton,rate_both,n_empty,rule,P_RESPONSE,P_ALERT,P_ESCALATE,P_false_RESPONSE,false_RESPONSE_given_RESPONSE,P_false_ALERT
+comcat_global_m4,xgboost,0.02,81783,0.0,0.6261,0.3739,0,empty -> ESCALATE,0.1293,0.4967,0.3739,0.0115,0.0889,0.0057
+comcat_global_m4,xgboost,0.02,81783,0.0,0.6261,0.3739,0,empty -> argmax,0.1293,0.4967,0.3739,0.0115,0.0889,0.0057
+comcat_global_m4,xgboost,0.1,81783,0.0,0.9012,0.0988,0,empty -> ESCALATE,0.3511,0.5501,0.0988,0.0503,0.1433,0.0395
+comcat_global_m4,xgboost,0.1,81783,0.0,0.9012,0.0988,0,empty -> argmax,0.3511,0.5501,0.0988,0.0503,0.1433,0.0395
+scedc_socal_m25,xgboost,0.02,6848,0.0,0.8785,0.1215,0,empty -> ESCALATE,0.0851,0.7934,0.1215,0.0178,0.2093,0.0
+scedc_socal_m25,xgboost,0.02,6848,0.0,0.8785,0.1215,0,empty -> argmax,0.0851,0.7934,0.1215,0.0178,0.2093,0.0
+scedc_socal_m25,xgboost,0.1,6848,0.0228,0.9772,0.0,156,empty -> ESCALATE,0.1846,0.7926,0.0228,0.0628,0.3402,0.0
+scedc_socal_m25,xgboost,0.1,6848,0.0228,0.9772,0.0,156,empty -> argmax,0.1846,0.8154,0.0,0.0628,0.3402,0.0088
+comcat_himalaya_m4,xgboost,0.02,707,0.0,0.3536,0.6464,0,empty -> ESCALATE,0.0,0.3536,0.6464,0.0,,0.0283
+comcat_himalaya_m4,xgboost,0.02,707,0.0,0.3536,0.6464,0,empty -> argmax,0.0,0.3536,0.6464,0.0,,0.0283
+comcat_himalaya_m4,xgboost,0.1,707,0.0,0.4356,0.5644,0,empty -> ESCALATE,0.082,0.3536,0.5644,0.0127,0.1552,0.0283
+comcat_himalaya_m4,xgboost,0.1,707,0.0,0.4356,0.5644,0,empty -> argmax,0.082,0.3536,0.5644,0.0127,0.1552,0.0283

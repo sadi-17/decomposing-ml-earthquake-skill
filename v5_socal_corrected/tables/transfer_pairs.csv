@@ -1,0 +1,7 @@
+pair,system,n_target,auc,f1,ece,coverage,cov_class1,cov_class0,avg_set_size,rate_empty,rate_singleton,rate_both,identity_gap,cov_gap,n_cal_target
+global -> comcat_himalaya_m4,native (target-trained),733,0.89,0.9252,0.0462,0.9604,0.9545,0.9693,1.5662,0.0,0.4338,0.5662,0.0,0.0147,
+global -> comcat_himalaya_m4,transfer (donor calibration only),733,0.925,0.9382,0.0465,0.9154,0.9432,0.8737,1.1405,0.0,0.8595,0.1405,0.0,0.0695,
+global -> comcat_himalaya_m4,transfer + target adaptation,733,0.9223,0.9369,0.0213,0.91,0.875,0.9625,1.3779,0.0,0.6221,0.3779,0.0,0.0875,680.0
+global -> scedc_socal_m25,native (target-trained),1995,0.9441,0.7687,0.0159,0.8426,0.9329,0.8142,0.9559,0.0441,0.9559,0.0,0.0,0.1187,
+global -> scedc_socal_m25,transfer (donor calibration only),1995,0.9314,0.7715,0.0418,0.9113,0.8323,0.9361,1.1183,0.0,0.8817,0.1183,0.0,0.1038,
+global -> scedc_socal_m25,transfer + target adaptation,1995,0.9319,0.7541,0.0095,0.8406,0.9266,0.8136,0.9604,0.0396,0.9604,0.0,0.0,0.1131,11700.0

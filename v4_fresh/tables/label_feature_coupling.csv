@@ -1,0 +1,4 @@
+catalog,mutual_info_nats,label_entropy_nats,mi_over_entropy,auc_magdiff_alone,backward_rule_accuracy,backward_rule_f1
+comcat_global_m4,0.4439,0.693,0.6405,0.9324,0.9014,0.9087
+scedc_socal_m25,0.453,0.5923,0.7649,0.9782,0.9321,0.8916
+comcat_himalaya_m4,0.4172,0.6216,0.6711,0.9281,0.938,0.9568

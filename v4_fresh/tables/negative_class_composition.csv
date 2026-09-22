@@ -1,0 +1,4 @@
+catalog,label_reconstruction_agreement,n_events,mainshock_rate,frac_neg_aftershock_only,frac_neg_foreshock_only,frac_neg_both
+comcat_global_m4,1.0,545220,0.4907,0.2657,0.1937,0.5407
+scedc_socal_m25,0.9999,79182,0.2793,0.1247,0.0942,0.7811
+comcat_himalaya_m4,1.0,4710,0.6868,0.3458,0.198,0.4563

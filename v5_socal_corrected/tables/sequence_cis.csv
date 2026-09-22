@@ -1,0 +1,13 @@
+catalog,statistic,value,ci_lo,ci_hi,n_events,n_sequences,resampling_unit
+comcat_global_m4,auc,0.94303,0.93346,0.95181,81783,17220,sequence
+comcat_global_m4,f1,0.89054,0.8848,0.8967,81783,17220,sequence
+comcat_global_m4,ece,0.00353,0.003,0.00643,81783,17220,sequence
+comcat_global_m4,auc_magdiff,0.93754,0.92727,0.94705,81783,17220,sequence
+scedc_socal_m25,auc,0.97227,0.93669,0.98775,6848,185,sequence
+scedc_socal_m25,f1,0.76673,0.75106,0.7982,6848,185,sequence
+scedc_socal_m25,ece,0.00906,0.00317,0.02474,6848,185,sequence
+scedc_socal_m25,auc_magdiff,0.96761,0.92414,0.98613,6848,185,sequence
+comcat_himalaya_m4,auc,0.88855,0.7901,0.93266,707,282,sequence
+comcat_himalaya_m4,f1,0.92497,0.90144,0.94643,707,282,sequence
+comcat_himalaya_m4,ece,0.03763,0.02987,0.07671,707,282,sequence
+comcat_himalaya_m4,auc_magdiff,0.9325,0.86238,0.96365,707,282,sequence

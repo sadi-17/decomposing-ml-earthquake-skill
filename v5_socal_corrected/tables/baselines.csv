@@ -1,0 +1,16 @@
+catalog,score,auc,accuracy,precision,recall,f1,auc_identity_sens_spec,auc_baseline,delong_p
+comcat_global_m4,heuristic (hard verdict),0.9114,0.89609,0.79922,1.0,0.8884,0.9114,,
+comcat_global_m4,magdiff (continuous),0.93754,0.89609,0.79922,1.0,0.8884,,,
+comcat_global_m4,xgboost,0.94303,0.89929,0.80892,0.99048,0.89054,,,
+comcat_global_m4,DeLong: xgboost vs magdiff,0.94303,,,,,,0.93754,0.0
+comcat_global_m4,DeLong: xgboost vs heuristic,0.94303,,,,,,0.9114,0.0
+scedc_socal_m25,heuristic (hard verdict),0.95574,0.92304,0.62913,1.0,0.77235,0.95574,,
+scedc_socal_m25,magdiff (continuous),0.96761,0.92304,0.62913,1.0,0.77235,,,
+scedc_socal_m25,xgboost,0.97227,0.92874,0.66945,0.89709,0.76673,,,
+scedc_socal_m25,DeLong: xgboost vs magdiff,0.97227,,,,,,0.96761,0.00127
+scedc_socal_m25,DeLong: xgboost vs heuristic,0.97227,,,,,,0.95574,0.0
+comcat_himalaya_m4,heuristic (hard verdict),0.90036,0.92079,0.88382,1.0,0.93833,0.90036,,
+comcat_himalaya_m4,magdiff (continuous),0.9325,0.92079,0.88382,1.0,0.93833,,,
+comcat_himalaya_m4,xgboost,0.88855,0.90523,0.88437,0.96948,0.92497,,,
+comcat_himalaya_m4,DeLong: xgboost vs magdiff,0.88855,,,,,,0.9325,2e-05
+comcat_himalaya_m4,DeLong: xgboost vs heuristic,0.88855,,,,,,0.90036,0.19654

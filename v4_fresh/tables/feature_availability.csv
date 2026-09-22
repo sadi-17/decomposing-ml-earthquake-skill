@@ -1,0 +1,4 @@
+catalog,n_model_features,present,absent
+comcat_global_m4,11,"mw, depth, gap, rms, dmin, magError, depthError, horizontalError, local_count_7d, log_energy_30d, mag_diff_30d",(none)
+scedc_socal_m25,5,"mw, depth, local_count_7d, log_energy_30d, mag_diff_30d","gap, rms, dmin, magError, depthError, horizontalError"
+comcat_himalaya_m4,11,"mw, depth, gap, rms, dmin, magError, depthError, horizontalError, local_count_7d, log_energy_30d, mag_diff_30d",(none)
